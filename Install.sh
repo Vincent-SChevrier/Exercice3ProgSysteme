@@ -18,6 +18,10 @@ echo `sudo pacman -S python3`
 echo `sudo pacman -S python-pip`
 echo `python3 --version`
 
+
 echo "Partie 2 - Dotfiles"
-echo "Cours3 - 2.Personnalisation"
+
+echo $"Bonjours `whoami`"
+
+ln 
 
