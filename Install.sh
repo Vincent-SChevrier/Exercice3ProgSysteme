@@ -2,6 +2,7 @@
 
 echo "Partie 1 - Install.sh"
 
+echo `$PATH`
 echo `mkdir bin`
 echo `mkdir cegep`
 echo `mkdir projets`
@@ -19,3 +20,4 @@ echo `sudo pacman -S python-pip`
 echo `python3 --version`
 
 echo `cat cstjean/cours4/Devoir3/DotFiles >> ~/.bashrc`
+echo `$PATH`
