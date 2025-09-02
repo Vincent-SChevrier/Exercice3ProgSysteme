@@ -40,3 +40,5 @@ grepi() {
 
 	grep -i "$string" "$path"
 }
+
+# export PATH="$PATH:$HOME/cstjean/cours4/Devoir3/bin"
