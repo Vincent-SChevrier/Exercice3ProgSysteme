@@ -27,7 +27,7 @@ hello() {
 	echo $"Hello, \u !"
 }
 
-# fonction qui crée un fichier et son path et ouvre le fichier avec nvim
+# fonction qui cree un fichier et son path et ouvre le fichier avec nvim
 mkvim() {
 	mkdir -p "$var"
 	nvim "$var"
