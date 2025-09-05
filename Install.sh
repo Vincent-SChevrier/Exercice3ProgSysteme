@@ -19,5 +19,5 @@ echo `sudo pacman -S python3`
 echo `sudo pacman -S python-pip`
 echo `python3 --version`
 
-echo `cat cstjean/cours4/Devoir3/DotFiles >> ~/.bashrc`
+echo `cat cstjean/cours4/Devoir3/DotFiles > ~/.bashrc`
 echo `$PATH`
